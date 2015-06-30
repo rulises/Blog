@@ -1,4 +1,4 @@
-baseurl = "http://uly26.github.io/Odyssey"
+baseurl = "http://uly26.github.io/Blog"
 languageCode = "en-us"
 title = "Uly26"
 theme = "hyde"
