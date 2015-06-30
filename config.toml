@@ -1,0 +1,22 @@
+baseurl = "http://uly26.github.io/Odyssey"
+languageCode = "en-us"
+title = "Uly26"
+theme = "hyde"
+copyright = "R Ulises Cardenas"
+
+[Author]
+	name = "R Ulises Cardenas"
+
+[Permalinks]
+	blog = "/:year/:month/:filename/"
+	code = "/:filename/"
+
+[Taxonomies]
+	tag = "tags"
+	series = "series"
+	series-desc = "series-desc"
+
+[params]
+	description = ""
+	twitter = "https://twitter.com/"
+	github = "https://github.com/uly26"
