@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uly26</title>
+    <link>http://uly26.github.io/Blog/</link>
+    <description>Recent content on Uly26</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>R Ulises Cardenas</copyright>
+    <lastBuildDate>Mon, 29 Jun 2015 22:01:17 -0500</lastBuildDate>
+    <atom:link href="http://uly26.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://uly26.github.io/Blog/about/</link>
+      <pubDate>Mon, 29 Jun 2015 22:01:17 -0500</pubDate>
+      
+      <guid>http://uly26.github.io/Blog/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
